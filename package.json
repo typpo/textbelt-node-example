@@ -1,0 +1,11 @@
+{
+  "name": "textbelt-node-example",
+  "version": "1.0.0",
+  "description": "example textbelt node app",
+  "main": "index.js",
+  "author": "ian webster",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
